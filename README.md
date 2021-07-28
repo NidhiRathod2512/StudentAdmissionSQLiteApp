@@ -47,3 +47,6 @@
 ##### Page 12
 ![Page 1](D12.jpg)
 
+##### Page 13
+![Page 1](D13.jpg)
+
